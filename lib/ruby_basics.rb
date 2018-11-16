@@ -11,7 +11,6 @@ assign_variable("Bob")
 
 def argue
   "I'm right and you are wrong!"
-  
 end
 argue
 
